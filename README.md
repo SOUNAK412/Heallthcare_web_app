@@ -31,7 +31,7 @@ Recommended: run inside a Python virtual environment. The helper PowerShell scri
 
 ```powershell
 # From repository root
-cd "C:\Users\Souvi\Desktop\health_app\Backend"
+cd "D:\New folder (2)\health_care_app-main\Backend"
 # Install deps
 python -m pip install -r requirements.txt
 # Generate dummy model (if missing)
